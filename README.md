@@ -1,5 +1,12 @@
 # Business Management Platform
 
+![Java](https://img.shields.io/badge/Java-Backend-red)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-green)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![REST API](https://img.shields.io/badge/REST-API-blue)
+![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
+![Status](https://img.shields.io/badge/status-educational-green)
+
 Sistema desenvolvido como **Trabalho de Conclusão de Curso (TCC)** do curso Técnico em **Desenvolvimento de Sistemas** no SENAI (2018–2020).
 
 O objetivo do projeto foi desenvolver uma **plataforma completa de gestão**, integrando aplicações **web, API e mobile**, permitindo gerenciamento de dados, integração entre serviços e consumo de APIs.
